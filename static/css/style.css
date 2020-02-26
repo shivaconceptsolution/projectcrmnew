@@ -1,0 +1,29 @@
+*
+		{
+			margin: 0px;
+		}
+		header
+		{
+			height: 100px;
+			background-color: black;
+		}
+         header a
+        {
+        	color:white;
+        	margin-left:12px;
+        	text-decoration: none; 
+        }
+        header a:hover
+        {
+        	color:red;
+        }
+		section
+		{
+			height: 500px;
+			background-color: gray;
+		}
+		footer
+		{
+			height: 50px;
+			background-color: black;
+		}
